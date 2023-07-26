@@ -1,7 +1,7 @@
 # NUR CAHYANTO 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-nurcah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurcah/)](https://www.linkedin.com/in/nurcah/)[![GitHub followers](https://img.shields.io/github/followers/Razdan12?label=Follow&style=social)](https://github.com/Razdan12/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nur.razdan@gmail.com)](mailto:nur.razdan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nur.razdan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nur.razdan@gmail.com)](mailto:nur.razdan@gmail.com)
 ---
 
 ## Hi there 👋,
