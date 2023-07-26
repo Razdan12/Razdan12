@@ -2,9 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Razdan12&color=36b812)
 ![](https://img.shields.io/github/followers/Razdan12?style=social)
 ![](https://img.shields.io/github/stars/Razdan12?style=social)
-
 [![Linkedin Badge](https://img.shields.io/badge/-nurcah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurcah/)](https://www.linkedin.com/in/nurcah/)
-
 [![Gmail Badge](https://img.shields.io/badge/-nur.razdan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nur.razdan@gmail.com)](mailto:nur.razdan@gmail.com)
 ---
 
