@@ -11,10 +11,10 @@
   
 ## 🧐 About
 
-🙌 I am a coding mentor at one of the offline training centers.
-😎 I like to learn new things related to technology
-👥 I like to work independently but to work in a team I'm fine and very good to work with
-👯 And Many More...
+- 🙌 I am a coding mentor at one of the offline training centers.
+- 😎 I like to learn new things related to technology
+- 👥 I like to work independently but to work in a team I'm fine and very good to work with
+- 👯 And Many More...
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
