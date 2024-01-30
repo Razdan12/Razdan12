@@ -8,7 +8,7 @@
 
 ## Hi there 👋,
 
-### I'M Nur Cahyanto I'm Frontend Engineer
+### I'M Nur Cahyanto I'm Fullstack Engineer
 -------
   
 ## 🧐 About
