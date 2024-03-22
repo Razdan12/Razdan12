@@ -21,7 +21,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/6285158693933)
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/6281548424561)
 
 
 ![Nur github stats](https://github-readme-stats.vercel.app/api?username=Razdan12&show_icons=true)
